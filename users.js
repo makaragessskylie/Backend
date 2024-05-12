@@ -1,15 +1,15 @@
 users = [
     {
         id : 1,
-        name :"John"
+        name :"kylie"
     },
     {
         id : 2,
-        name :"Smith"
+        name :"injilia"
     },
     {
         id : 3,
-        name :"Bob"
+        name :"kay"
     }
     ];
     
